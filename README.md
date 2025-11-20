@@ -12,3 +12,9 @@ chmod +x recon.sh
 ```
 ./recon.sh evil.com /path/to/folder/output
 ```
+
+## contoh penggunaan
+![contoh penggunaan](example-usage.png)
+
+## contoh output hasil
+![contoh hasil](example-result.png)
