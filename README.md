@@ -1,14 +1,13 @@
 # Apa ini?
 Skrip automasi pencarian subdomain, deteksi teknologi, dan mengkategorikan berdasarkan status kode, url dan teknologi.
 
-## instalasi?
+## instalasi
 ```
-git clone https://github.com/nmwafa/recon-pillage.git
-cd recon-pillage
+wget https://raw.githubusercontent.com/nmwafa/recon-pillage/refs/heads/main/recon.sh
 chmod +x recon.sh
 ```
 
-## cara pakai?
+## cara pakai
 ```
 ./recon.sh evil.com /path/to/folder/output
 ```
