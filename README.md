@@ -1,6 +1,15 @@
 # Apa ini?
 Skrip automasi pencarian subdomain, deteksi teknologi, dan mengkategorikan berdasarkan status kode, url dan teknologi.
 
+## tools yang diperlukan
+Untuk menggunakan skrip automasi ini diperlukan beberapa tools pendukung
+```
+subfinder
+jq
+anew
+httpx-toolkit
+```
+
 ## instalasi
 ```
 wget https://raw.githubusercontent.com/nmwafa/recon-pillage/refs/heads/main/recon.sh
